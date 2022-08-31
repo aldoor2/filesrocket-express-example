@@ -1,0 +1,22 @@
+{
+  "name": "my-filesrocket-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@filesrocket/core": "^1.2.2",
+    "@filesrocket/local": "^1.2.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2"
+  }
+}
